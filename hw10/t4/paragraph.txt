@@ -1,0 +1,18 @@
+<p class="hidden 3xl:block md:w-3/4 xl:w-1/2 mx-auto normal-case text-lg px-4">Ever tried to buy a computer made entirely of US parts and assembled here? You can't. But here are 46 companies making high-quality tech products in the United States.</p>
+<p class="text-sm font-brand 3xl:mt-4 px-4">By Sascha Segan</p>
+<p>Advertisement</p>
+<p>Advertisement</p>
+<p class="line-clamp-2 text-gray-darker">From its neon graphics to its tactical mechanics, Knockout City’s take on multiplayer dodgeball is over-the-top in all the right ways. It just sits in an awkward limbo between free and paid games.</p>
+<p class="line-clamp-2 text-gray-darker">If you’re looking to gift an iPad for Father’s Day, the iPad Air currently has an $80 discount, too.</p>
+<p class="line-clamp-2 text-gray-darker">At an investors event, AMD CEO Lisa Su said the CPU shortage has caused the company to prioritize higher-end commercial CPUs and gaming processors over lower-end PC chips.</p>
+<p class="line-clamp-2 text-gray-darker">PCMag's Speed Test measures your ISP throughput to reveal the true speed demons. Test your ISP today!</p>
+<p class="line-clamp-2 text-gray-darker">Summer's coming, so it's a great time to grab some friends and enjoy your favorite film under the stars. Take a look at our favorite low-cost projectors, screens, speakers, and accessories for a budget-friendly movie night in your own backyard.</p>
+<p class="line-clamp-2 text-gray-darker">The good news: your existing library, and everything you upload before June 1, will not count toward the upcoming 15GB storage limit, so go nuts over the long holiday weekend.</p>
+<p class="line-clamp-2 text-gray-darker">iOS 14 was the first major interface update to Apple’s mobile OS in years, and 14.5 adds new product and service tie-ins, including for Fitness+ and AirTags.</p>
+<p class="line-clamp-2 text-gray-darker">On Tuesday morning, Newegg's raffle system to sell PC graphics cards was instead offering up random items, including water boilers, air fryers, and antivirus software.</p>
+<p class="line-clamp-2 text-gray-darker">Reap the benefits of a lower phone bill and the possibility of future 5G coverage.</p>
+<p class="line-clamp-2 text-gray-darker">The Belkin Boost Up Charge Pro 2-in-1 Wireless Charger Stand with MagSafe is the perfect home for your iPhone 12, and it charges AirPods too.</p>
+<p>Advertisement</p>
+<p class="mb-6">PCMag.com is a leading authority on technology, delivering Labs-based, independent reviews of the latest products and services. Our expert industry analysis and practical solutions help you make better buying decisions and get more from technology.</p>
+<p class="font-bold uppercase">© 1996-2021 Ziff Davis, LLC. PCMag Digital Group</p>
+<p class="mt-2">PCMag, PCMag.com and PC Magazine are among the federally registered trademarks of Ziff Davis, LLC and may not be used by third parties without explicit permission. The display of third-party trademarks and trade names on this site does not necessarily indicate any affiliation or the endorsement of PCMag. If you click an affiliate link and buy a product or service, we may be paid a fee by that merchant.</p>
