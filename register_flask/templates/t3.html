@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Register</title>
+
+    <style>
+        body{
+    background:darkslategrey ;
+}
+.card{
+    /*border: 1px solid darkkhaki;*/
+    border-radius: 15px;
+    box-shadow: 0 3px 5px 2px gray ;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+}
+.main{
+    background:darkslategray ;
+    color: aliceblue;
+    width: 40%;
+}
+
+.voroudi{
+    border-radius: 5px;
+    width: 200px;
+}
+    </style>
+</head>
+<body>
+<div class="card main">
+    <h1>Register User</h1>
+    <h2>Enter your profile</h2>
+    <form action={{ url_for('register') }} method="post">
+        <label for="fname">First Name</label><br>
+        <input class="voroudi" type="text" id="fname" name="fname"><br><br>
+        <label for="lname">Last Name</label><br>
+        <input class="voroudi" type="text" id="lname" name="lname"><br><br>
+        <label for="phone">Phone number</label><br>
+        <input class="voroudi" type="text" id="phone" name="phone" placeholder="+989123456789"><br><br>
+        <label for="gender">Gender</label><br>
+        <select class="voroudi" id="gender" name="gender" >
+             <option value="male">male</option>
+             <option value="female">female</option>
+        </select><br><br>
+        <label for="adress">Adress</label><br>
+        <textarea class="voroudi" placeholder="Enter your adress here" rows="10" id="adress"></textarea><br><br>
+        <input type="submit" class="voroudi" style="height: 2rem">
+    </form>
+</div>
+</body>
+</html>
