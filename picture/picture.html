@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body style="text-align: center">
+<div>
+    <br>
+    <label for="my_rang">range</label>
+    <input type="range" id="my_rang" oninput="change_size(this.value)" min="400" max="800"><br><br>
+
+
+    <label for="gray">gray-scale</label>
+    <input type="checkbox" id="gray" onchange="gray()">
+
+    <label for="blur">blur</label>
+    <input type="checkbox" id="blur" onchange="blr()">
+
+    <label for="ctr">invert</label>
+    <input type="checkbox" id="ctr" onchange="cntrs()">
+
+    <br><br><br>
+    <img src="3-nature-wallpaper-mountain.jpg.crdownload" width="20%" height="auto" id="my_pic"
+         onload="this.width=document.getElementById('my_rang').value">
+</div>
+<script src="pic.js"></script>
+</body>
+</html>
