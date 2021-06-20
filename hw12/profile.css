@@ -1,0 +1,17 @@
+.left{
+    height: 100%;
+    color: white;
+    background-color: blueviolet;
+}
+.right{
+    height: 100%;
+    background-color: white;
+}
+.my_img {
+    width: 180px;
+    height: auto;
+    border-radius: 100%;
+    margin-right: 0.5rem;
+    margin-left: 0.5rem;
+    margin-top: 2rem;
+}
